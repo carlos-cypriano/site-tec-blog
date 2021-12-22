@@ -21,6 +21,7 @@ Nesta página são utilizados os seguintes recursos:
 7 - Foram utilizados recursos para flutuar elementos na página, como as postagens principais e postagens laterais, como também a propriedade clear both para limpar fluxo de flutuação.
 
 8 - Imagens armazenadas na pasta img-tec-blog para background e pequena exibição de campanha publicitária com bordas personalizadas. 
+
 9 - Links estilizados e com diferentes estados.
 
 10 - Tag strong, para destaque em negrito do texto (obs: Há outras maneiras eficientes e recomendadas a serem utilizadas como font-weight bold).
