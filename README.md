@@ -29,3 +29,5 @@ Nesta página são utilizados os seguintes recursos:
 11 - Tags h2 personalizadas para título, e tags p para escrita de textos Loren Ipsum nas páginas. 
 
 12 - Por fim, foi utilizado conhecimento de entidades HTML para uso de caracter especial de direitos de cópia no rodapé e texto do rodapé com alinhamento centralizado.
+
+Obs: Por algum motivo ainda desconhecido, a formatação geral dos links não foi aplicada da maneira que eu esperava, então eu setei diretamente nas tags <a> a cor do link. Se alguém ao ler esse documento encontrar o porque desse comportamento, por favor me comunicar, pois talvez eu tenha deixado passar algo despercebido.
