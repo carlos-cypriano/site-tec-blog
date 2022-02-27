@@ -30,4 +30,4 @@ Nesta página são utilizados os seguintes recursos:
 
 12 - Por fim, foi utilizado conhecimento de entidades HTML para uso de caracter especial de direitos de cópia no rodapé e texto do rodapé com alinhamento centralizado.
 
-Obs: Por algum motivo ainda desconhecido, a formatação geral dos links não foi aplicada da maneira que eu esperava, então eu setei diretamente nas tags <a> a cor do link. Se alguém ao ler esse documento encontrar o porque desse comportamento, por favor me comunicar, pois talvez eu tenha deixado passar algo despercebido.
+Obs: Por algum motivo ainda desconhecido, a formatação geral dos links não foi aplicada da maneira que eu esperava, então eu setei diretamente nas tags de link, a cor dos links. Se alguém ao ler esse documento encontrar o porque desse comportamento, por favor me comunicar, pois talvez eu tenha deixado passar algo despercebido.
